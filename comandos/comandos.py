@@ -8,5 +8,6 @@
 # Outra atualização: python -m pip install pip setuptools wheel --upgrade
 
 # django-admin --help
+# python -m django
 
 # noqa

@@ -10,4 +10,6 @@
 # django-admin --help
 # python -m django
 
+# Iniciar um projeto django --> django-admin startproject projeto .
+
 # noqa

@@ -12,6 +12,7 @@
 
 # Iniciar um projeto django --> django-admin startproject projeto .
 # Subir servidor django em modo de desenvolvimento:
-# python manage.py runserver
+# python manage.py runserver (em vez de usar o django-admin, usar sempre o
+# manage.py)
 
 # noqa

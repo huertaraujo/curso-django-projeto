@@ -5,5 +5,6 @@
 
 """
 Depois da criação do projeto pelo terminal, em urls criar funções.
+Após isso, criar um app(aba) pelo comando no terminal com o tema principal.
 
 """

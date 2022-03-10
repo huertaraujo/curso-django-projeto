@@ -9,7 +9,7 @@ para rodar o código na máquina e servidor,
 de forma mais prática e facilitada,
 substituindo o comando "python manage.py runserver",
 criar um launch json.file na sessão debug no vscode e selecionar "Django".
-Depois disso, executa no canto superior esquerdo. 
+Depois disso, executa no canto superior esquerdo.
 
 """
 
